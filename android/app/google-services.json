@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "194138793764",
+    "firebase_url": "https://flatform-7874d.firebaseio.com",
+    "project_id": "flatform-7874d",
+    "storage_bucket": "flatform-7874d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194138793764:android:9e887568cfcd6d235a35b1",
+        "android_client_info": {
+          "package_name": "com.example.flatform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194138793764-95rpjluag5lh33tpcpjscno6t10vknrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flatform",
+            "certificate_hash": "477c2fb32d00d16b1b72571026b7ea1f12e3c1df"
+          }
+        },
+        {
+          "client_id": "194138793764-3gpvpevu9tvs0ele1plinr6gu6jn3cve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnvtO_209KKOraHLHXXiYXxjUM_14aMec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194138793764-3gpvpevu9tvs0ele1plinr6gu6jn3cve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

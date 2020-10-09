@@ -1,0 +1,36 @@
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:23
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:23
+-keep class com.example.flatform.Application { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:28
+-keep class com.example.flatform.MainActivity { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:174
+-keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:187
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:181
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:154
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:145
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:165
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:122
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:112
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:118
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:128
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:57
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:136
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:104
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:159
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:95
+-keep class io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService { <init>(); }

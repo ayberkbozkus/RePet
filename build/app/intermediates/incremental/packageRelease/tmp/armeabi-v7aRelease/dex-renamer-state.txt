@@ -1,0 +1,4 @@
+#Thu Oct 08 08:18:56 EET 2020
+base.0=/Users/ayberkbozkus/Documents/GitHub/flatform/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
